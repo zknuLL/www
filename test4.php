@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <title>河南壹号果元食品有限公司</title>
 <meta name="keywords" content="壹号果元 苹果醋 河南壹号果元食品有限公司 零添加 饮料">
-<meta name="description" content="壹号果元食品有限公司是一家专注于健康饮料产品的价值引领者和专业的健康饮料品牌运营商。公司位于中原腹地郑州市，现有品牌运营和市场营销人员100多人。公司旗下“壹号果元”苹果醋饮料凭借独特口感与健康功效，日益成为消费者喜爱的新一代健康礼品饮料和健康餐饮饮料，公司始终坚持“健康饮料的价值引领者和健康饮料的品牌运营商”的企业定位。">
+<meta name="description" content="壹号果元食品有限公司是一家专注于健康饮料产品的价值引领者和专业的健康饮料品牌运营商。公司位于中原腹地郑州市，现有品牌运营和市场营销人员100多人。公司旗下“壹号果元”苹果醋饮料凭借独特口感与健康功效，日益成为消费者喜爱的新一代健康礼品饮料和健康料，公司始终坚持“健康饮料的价值引领者和健康饮料的品牌运营商”的企业定位。">
 <link href="css/nav.css" rel="stylesheet" type="text/css" />
 <link rel="stylesheet" href="css/slide.css">
 <link rel="stylesheet" href="css/common.css">
